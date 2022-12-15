@@ -12,7 +12,9 @@ import {Gap} from '../../components';
 import {colors} from '../../utils';
 
 const Splash = ({navigation}) => {
-  useEffect(() => navigation.replace('MainApp'), 2000);
+  useEffect(() => {
+    setTimeout(() => navigation.replace('MainApp'), 2000);
+  }, []);
   return (
     <Fragment>
       <StatusBar animated={true} backgroundColor={colors.secondary} />
