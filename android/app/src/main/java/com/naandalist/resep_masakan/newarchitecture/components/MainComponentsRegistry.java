@@ -1,4 +1,4 @@
-package com.resep_masakan.newarchitecture.components;
+package com.naandalist.resep_masakan.newarchitecture.components;
 
 import com.facebook.jni.HybridData;
 import com.facebook.proguard.annotations.DoNotStrip;

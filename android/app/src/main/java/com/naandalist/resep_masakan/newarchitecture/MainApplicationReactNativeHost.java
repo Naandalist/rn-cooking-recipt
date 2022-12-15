@@ -1,4 +1,4 @@
-package com.resep_masakan.newarchitecture;
+package com.naandalist.resep_masakan.newarchitecture;
 
 import android.app.Application;
 import androidx.annotation.NonNull;
@@ -19,9 +19,9 @@ import com.facebook.react.fabric.CoreComponentsRegistry;
 import com.facebook.react.fabric.EmptyReactNativeConfig;
 import com.facebook.react.fabric.FabricJSIModuleProvider;
 import com.facebook.react.uimanager.ViewManagerRegistry;
-import com.resep_masakan.BuildConfig;
-import com.resep_masakan.newarchitecture.components.MainComponentsRegistry;
-import com.resep_masakan.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
+import com.naandalist.resep_masakan.BuildConfig;
+import com.naandalist.resep_masakan.newarchitecture.components.MainComponentsRegistry;
+import com.naandalist.resep_masakan.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
 import java.util.ArrayList;
 import java.util.List;
 

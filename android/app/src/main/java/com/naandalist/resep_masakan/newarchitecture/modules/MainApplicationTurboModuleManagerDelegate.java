@@ -1,4 +1,4 @@
-package com.resep_masakan.newarchitecture.modules;
+package com.naandalist.resep_masakan.newarchitecture.modules;
 
 import com.facebook.jni.HybridData;
 import com.facebook.react.ReactPackage;

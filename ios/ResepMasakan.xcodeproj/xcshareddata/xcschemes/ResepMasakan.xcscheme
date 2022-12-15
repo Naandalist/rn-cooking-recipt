@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "resep_masakan.app"
-               BlueprintName = "resep_masakan"
-               ReferencedContainer = "container:resep_masakan.xcodeproj">
+               BuildableName = "ResepMasakan.app"
+               BlueprintName = "ResepMasakan"
+               ReferencedContainer = "container:ResepMasakan.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "resep_masakanTests.xctest"
-               BlueprintName = "resep_masakanTests"
-               ReferencedContainer = "container:resep_masakan.xcodeproj">
+               BuildableName = "ResepMasakanTests.xctest"
+               BlueprintName = "ResepMasakanTests"
+               ReferencedContainer = "container:ResepMasakan.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "resep_masakan.app"
-            BlueprintName = "resep_masakan"
-            ReferencedContainer = "container:resep_masakan.xcodeproj">
+            BuildableName = "ResepMasakan.app"
+            BlueprintName = "ResepMasakan"
+            ReferencedContainer = "container:ResepMasakan.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "resep_masakan.app"
-            BlueprintName = "resep_masakan"
-            ReferencedContainer = "container:resep_masakan.xcodeproj">
+            BuildableName = "ResepMasakan.app"
+            BlueprintName = "ResepMasakan"
+            ReferencedContainer = "container:ResepMasakan.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
