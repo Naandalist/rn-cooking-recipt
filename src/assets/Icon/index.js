@@ -11,8 +11,14 @@ import IcStarOff from './ic-star-off.svg';
 import IcMin from './ic-button-min.svg';
 import IcPlus from './ic-button-plus.svg';
 import IcNext from './ic-next.svg';
+import IcDish from './dish.png';
+import IcWhiteDish from './dish_white.png';
+import IcFood from './food-hot-bowl-pngrepo-com.png';
 
 export {
+  IcFood,
+  IcDish,
+  IcWhiteDish,
   IcBack,
   IcBackWhite,
   IcHomeOff,
