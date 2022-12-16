@@ -3,7 +3,7 @@ export const fonts = {
     bold: 'NotoSerif-Bold',
     boldItalic: 'NotoSerif-BoldItalic',
     italic: 'NotoSerif-Italic',
-    normal: 'Notoserif-Regular',
+    normal: 'NotoSerif-Regular',
   },
   secondary: {
     light: 'Poppins-Light',
